@@ -6,5 +6,5 @@ git push test.
 creating a new branch is quick and simple.
 git merge test.
 test bug branch.
-
+the file modify by B. 
 
